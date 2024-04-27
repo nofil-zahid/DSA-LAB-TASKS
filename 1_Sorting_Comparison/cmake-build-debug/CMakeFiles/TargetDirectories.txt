@@ -1,0 +1,3 @@
+F:/CLION_C/Lab_Assignment_1/1_Sorting_Comparison/cmake-build-debug/CMakeFiles/1_Sorting_Comparison.dir
+F:/CLION_C/Lab_Assignment_1/1_Sorting_Comparison/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/CLION_C/Lab_Assignment_1/1_Sorting_Comparison/cmake-build-debug/CMakeFiles/rebuild_cache.dir

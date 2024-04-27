@@ -1,0 +1,13 @@
+# ninja log v5
+76	5836	6921497856617286	build.ninja	756a51deac3de4c3
+2879	4535	6921143204557196	3_Minimum_Sum.exe	1a7f7529829284f8
+0	1949	6921143179018166	CMakeFiles/3_Minimum_Sum.dir/main.cpp.obj	471b29a83c5c2ca8
+1952	2879	6921143188328431	CMakeFiles/3_Minimum_Sum.dir/Arr_Operation.cpp.obj	62ad3f633c0e4627
+31	2029	6921500901097234	CMakeFiles/3_Minimum_Sum.dir/main.cpp.obj	471b29a83c5c2ca8
+2030	3946	6921500920225839	3_Minimum_Sum.exe	1a7f7529829284f8
+6	3430	6921511671491731	CMakeFiles/3_Minimum_Sum.dir/main.cpp.obj	471b29a83c5c2ca8
+3431	4170	6921511679233326	CMakeFiles/3_Minimum_Sum.dir/Arr_Operation.cpp.obj	62ad3f633c0e4627
+4171	5200	6921511689470578	3_Minimum_Sum.exe	1a7f7529829284f8
+9	1173	6921512983296681	CMakeFiles/3_Minimum_Sum.dir/main.cpp.obj	471b29a83c5c2ca8
+1173	1812	6921512989706693	CMakeFiles/3_Minimum_Sum.dir/Arr_Operation.cpp.obj	62ad3f633c0e4627
+1812	2107	6921512992597565	3_Minimum_Sum.exe	1a7f7529829284f8

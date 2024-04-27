@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "7_Arrays_Overlap_Intersection",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "7_Arrays_Overlap_Intersection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7_Arrays_Overlap_Intersection-Debug-992e05bfd3abd0978fbe.json",
+					"name" : "7_Arrays_Overlap_Intersection",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/CLION_C/Lab_Assignment_1/7_Arrays_Overlap_Intersection/cmake-build-debug",
+		"source" : "F:/CLION_C/Lab_Assignment_1/7_Arrays_Overlap_Intersection"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,3 @@
+F:/CLION_C/Lab_Assignment_1/8_Combining_the_array/cmake-build-debug/CMakeFiles/8_Combining_the_array.dir
+F:/CLION_C/Lab_Assignment_1/8_Combining_the_array/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/CLION_C/Lab_Assignment_1/8_Combining_the_array/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,23 @@
+# ninja log v5
+1	1548	6927061316436967	CMakeFiles/14_Parenthesization_Checker.dir/main.cpp.obj	1ecefddc564999b0
+1551	2485	6927061325726607	14_Parenthesization_Checker.exe	27ec9e32bbc5f548
+6	906	6927062006996523	CMakeFiles/14_Parenthesization_Checker.dir/main.cpp.obj	1ecefddc564999b0
+907	1097	6927062008866737	14_Parenthesization_Checker.exe	27ec9e32bbc5f548
+9	1244	6927062563163937	CMakeFiles/14_Parenthesization_Checker.dir/main.cpp.obj	1ecefddc564999b0
+1245	1429	6927062564973925	14_Parenthesization_Checker.exe	27ec9e32bbc5f548
+6	2870	6927082305171444	CMakeFiles/14_Parenthesization_Checker.dir/main.cpp.obj	1ecefddc564999b0
+2871	4555	6927082321980658	14_Parenthesization_Checker.exe	27ec9e32bbc5f548
+5	1015	6927082924204919	CMakeFiles/14_Parenthesization_Checker.dir/main.cpp.obj	1ecefddc564999b0
+1016	1251	6927082926470447	14_Parenthesization_Checker.exe	27ec9e32bbc5f548
+6	935	6927083098748747	CMakeFiles/14_Parenthesization_Checker.dir/main.cpp.obj	1ecefddc564999b0
+936	1175	6927083101101261	14_Parenthesization_Checker.exe	27ec9e32bbc5f548
+7	920	6927083266406409	CMakeFiles/14_Parenthesization_Checker.dir/main.cpp.obj	1ecefddc564999b0
+921	1175	6927083268907466	14_Parenthesization_Checker.exe	27ec9e32bbc5f548
+5	1123	6927084387094801	CMakeFiles/14_Parenthesization_Checker.dir/main.cpp.obj	1ecefddc564999b0
+1151	1727	6927084393081860	14_Parenthesization_Checker.exe	27ec9e32bbc5f548
+7	1355	6927086468272126	CMakeFiles/14_Parenthesization_Checker.dir/main.cpp.obj	1ecefddc564999b0
+1355	1753	6927086472206040	14_Parenthesization_Checker.exe	27ec9e32bbc5f548
+6	1094	6927086948173075	CMakeFiles/14_Parenthesization_Checker.dir/main.cpp.obj	1ecefddc564999b0
+1094	1591	6927086953092113	14_Parenthesization_Checker.exe	27ec9e32bbc5f548
+6	1272	6927087164147491	CMakeFiles/14_Parenthesization_Checker.dir/main.cpp.obj	1ecefddc564999b0
+1272	1743	6927087168809492	14_Parenthesization_Checker.exe	27ec9e32bbc5f548

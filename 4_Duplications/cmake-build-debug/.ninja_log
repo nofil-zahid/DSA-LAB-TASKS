@@ -1,0 +1,8 @@
+# ninja log v5
+144	3635	6921916774724524	build.ninja	ca68d80ca388d264
+0	2562	6921916810922508	CMakeFiles/4_Duplications.dir/main.cpp.obj	3be8f30381d427d4
+6	1214	6921917118972682	CMakeFiles/4_Duplications.dir/ArrayDupication.cpp.obj	8de4ac00e1725c76
+1215	4012	6921917146915907	4_Duplications.exe	ffdf3240007068ed
+7	2860	6921928533903051	CMakeFiles/4_Duplications.dir/main.cpp.obj	3be8f30381d427d4
+2860	3672	6921928541993673	CMakeFiles/4_Duplications.dir/ArrayDupication.cpp.obj	8de4ac00e1725c76
+3673	5149	6921928556753473	4_Duplications.exe	ffdf3240007068ed

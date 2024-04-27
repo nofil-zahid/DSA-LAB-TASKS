@@ -1,0 +1,3 @@
+F:/CLION_C/Lab_Assignment_1/12_Manual_TOH/cmake-build-debug/CMakeFiles/12_Manual_TOH.dir
+F:/CLION_C/Lab_Assignment_1/12_Manual_TOH/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/CLION_C/Lab_Assignment_1/12_Manual_TOH/cmake-build-debug/CMakeFiles/rebuild_cache.dir

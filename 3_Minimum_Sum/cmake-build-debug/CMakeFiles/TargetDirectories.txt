@@ -1,0 +1,3 @@
+F:/CLION_C/Lab_Assignment_1/3_Minimum_Sum/cmake-build-debug/CMakeFiles/3_Minimum_Sum.dir
+F:/CLION_C/Lab_Assignment_1/3_Minimum_Sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/CLION_C/Lab_Assignment_1/3_Minimum_Sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

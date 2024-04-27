@@ -1,0 +1,20 @@
+# ninja log v5
+1	2844	6931350189009970	CMakeFiles/13_Stack_Sorting.dir/main.cpp.obj	812edbcc527d9597
+30	2389	6931351130521746	CMakeFiles/13_Stack_Sorting.dir/main.cpp.obj	812edbcc527d9597
+2389	3335	6931351139071717	13_Stack_Sorting.exe	3ec03c585a1bed0a
+7	888	6931351992318345	CMakeFiles/13_Stack_Sorting.dir/main.cpp.obj	812edbcc527d9597
+888	1089	6931351994298324	13_Stack_Sorting.exe	3ec03c585a1bed0a
+5	4767	6931363397582548	CMakeFiles/13_Stack_Sorting.dir/main.cpp.obj	812edbcc527d9597
+4767	6587	6931363418770861	13_Stack_Sorting.exe	3ec03c585a1bed0a
+5	6256	6931367390890625	CMakeFiles/13_Stack_Sorting.dir/main.cpp.obj	812edbcc527d9597
+6314	8534	6931367414549513	13_Stack_Sorting.exe	3ec03c585a1bed0a
+5	1370	6931367879228551	CMakeFiles/13_Stack_Sorting.dir/main.cpp.obj	812edbcc527d9597
+1371	1555	6931367881048540	13_Stack_Sorting.exe	3ec03c585a1bed0a
+5	982	6931368542552630	CMakeFiles/13_Stack_Sorting.dir/main.cpp.obj	812edbcc527d9597
+982	1198	6931368544632353	13_Stack_Sorting.exe	3ec03c585a1bed0a
+6	945	6931369129472490	CMakeFiles/13_Stack_Sorting.dir/main.cpp.obj	812edbcc527d9597
+946	1133	6931369131302466	13_Stack_Sorting.exe	3ec03c585a1bed0a
+5	1886	6931379746247168	CMakeFiles/13_Stack_Sorting.dir/main.cpp.obj	812edbcc527d9597
+1887	5593	6931379783407758	13_Stack_Sorting.exe	3ec03c585a1bed0a
+6	911	6931380492685215	CMakeFiles/13_Stack_Sorting.dir/main.cpp.obj	812edbcc527d9597
+911	1107	6931380494605194	13_Stack_Sorting.exe	3ec03c585a1bed0a
